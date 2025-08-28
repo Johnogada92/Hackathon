@@ -5,4 +5,4 @@
 - I have done to the best of my knowledge. Its wow!
 
 Live page
-[Click here to view](Johnogada92/Johnogada92.github.io/Hackathon/)
+[Click here to view](Johnogada92/Johnogada92.github.io/)
